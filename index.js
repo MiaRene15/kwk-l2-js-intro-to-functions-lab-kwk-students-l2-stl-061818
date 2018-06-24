@@ -6,7 +6,7 @@ function getUKTime() {
   return currentHour + 5
 }
 
-<<<<<<< HEAD
+
 let percentage = 80
 
 function discountTicket(number) {
