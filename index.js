@@ -18,4 +18,4 @@ function tweetReply(fanName) {
 function discountTicket() {
   
 }
->>>>>>> 4dc45afc196396b3266c9c3210546fa69bb11abb
+
